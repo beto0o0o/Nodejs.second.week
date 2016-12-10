@@ -1,0 +1,2 @@
+add: adds new item to the list
+remove: removes the entered items from the list
